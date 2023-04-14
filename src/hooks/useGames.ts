@@ -1,7 +1,7 @@
 // import { CanceledError } from "axios";
 // import { useEffect, useState } from "react";
 // import apiClient from "../services/api-client";
-import useData from "./useDate";
+import useData from "./useData";
 
 export interface Platform {
   id: number;
